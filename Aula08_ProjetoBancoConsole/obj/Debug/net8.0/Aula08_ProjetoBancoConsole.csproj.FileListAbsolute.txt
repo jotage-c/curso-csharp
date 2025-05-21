@@ -1,0 +1,14 @@
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula08_ProjetoBancoConsole\bin\Debug\net8.0\Aula08_ProjetoBancoConsole.exe
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula08_ProjetoBancoConsole\bin\Debug\net8.0\Aula08_ProjetoBancoConsole.deps.json
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula08_ProjetoBancoConsole\bin\Debug\net8.0\Aula08_ProjetoBancoConsole.runtimeconfig.json
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula08_ProjetoBancoConsole\bin\Debug\net8.0\Aula08_ProjetoBancoConsole.dll
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula08_ProjetoBancoConsole\bin\Debug\net8.0\Aula08_ProjetoBancoConsole.pdb
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula08_ProjetoBancoConsole\obj\Debug\net8.0\Aula08_ProjetoBancoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula08_ProjetoBancoConsole\obj\Debug\net8.0\Aula08_ProjetoBancoConsole.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula08_ProjetoBancoConsole\obj\Debug\net8.0\Aula08_ProjetoBancoConsole.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula08_ProjetoBancoConsole\obj\Debug\net8.0\Aula08_ProjetoBancoConsole.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula08_ProjetoBancoConsole\obj\Debug\net8.0\Aula08_ProjetoBancoConsole.dll
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula08_ProjetoBancoConsole\obj\Debug\net8.0\refint\Aula08_ProjetoBancoConsole.dll
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula08_ProjetoBancoConsole\obj\Debug\net8.0\Aula08_ProjetoBancoConsole.pdb
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula08_ProjetoBancoConsole\obj\Debug\net8.0\Aula08_ProjetoBancoConsole.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula08_ProjetoBancoConsole\obj\Debug\net8.0\ref\Aula08_ProjetoBancoConsole.dll

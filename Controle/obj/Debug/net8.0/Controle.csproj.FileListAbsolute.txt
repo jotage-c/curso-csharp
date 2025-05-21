@@ -1,0 +1,28 @@
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Controle\obj\Debug\net8.0\Controle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Controle\obj\Debug\net8.0\Controle.AssemblyInfoInputs.cache
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Controle\obj\Debug\net8.0\Controle.AssemblyInfo.cs
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Controle\obj\Debug\net8.0\Controle.csproj.CoreCompileInputs.cache
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Controle\bin\Debug\net8.0\Controle.exe
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Controle\bin\Debug\net8.0\Controle.deps.json
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Controle\bin\Debug\net8.0\Controle.runtimeconfig.json
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Controle\bin\Debug\net8.0\Controle.dll
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Controle\bin\Debug\net8.0\Controle.pdb
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Controle\obj\Debug\net8.0\Controle.dll
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Controle\obj\Debug\net8.0\refint\Controle.dll
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Controle\obj\Debug\net8.0\Controle.pdb
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Controle\obj\Debug\net8.0\Controle.genruntimeconfig.cache
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Controle\obj\Debug\net8.0\ref\Controle.dll
+C:\Users\USUARIO\source\repos\CursoCsharp\Controle\bin\Debug\net8.0\Controle.exe
+C:\Users\USUARIO\source\repos\CursoCsharp\Controle\bin\Debug\net8.0\Controle.deps.json
+C:\Users\USUARIO\source\repos\CursoCsharp\Controle\bin\Debug\net8.0\Controle.runtimeconfig.json
+C:\Users\USUARIO\source\repos\CursoCsharp\Controle\bin\Debug\net8.0\Controle.dll
+C:\Users\USUARIO\source\repos\CursoCsharp\Controle\bin\Debug\net8.0\Controle.pdb
+C:\Users\USUARIO\source\repos\CursoCsharp\Controle\obj\Debug\net8.0\Controle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\CursoCsharp\Controle\obj\Debug\net8.0\Controle.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\CursoCsharp\Controle\obj\Debug\net8.0\Controle.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\CursoCsharp\Controle\obj\Debug\net8.0\Controle.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\CursoCsharp\Controle\obj\Debug\net8.0\Controle.dll
+C:\Users\USUARIO\source\repos\CursoCsharp\Controle\obj\Debug\net8.0\refint\Controle.dll
+C:\Users\USUARIO\source\repos\CursoCsharp\Controle\obj\Debug\net8.0\Controle.pdb
+C:\Users\USUARIO\source\repos\CursoCsharp\Controle\obj\Debug\net8.0\Controle.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\CursoCsharp\Controle\obj\Debug\net8.0\ref\Controle.dll
