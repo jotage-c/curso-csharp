@@ -1,0 +1,15 @@
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoArquivoNaoAchado\bin\Debug\net8.0\Aula11-ExcecaoArquivoNaoAchado.exe
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoArquivoNaoAchado\bin\Debug\net8.0\Aula11-ExcecaoArquivoNaoAchado.deps.json
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoArquivoNaoAchado\bin\Debug\net8.0\Aula11-ExcecaoArquivoNaoAchado.runtimeconfig.json
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoArquivoNaoAchado\bin\Debug\net8.0\Aula11-ExcecaoArquivoNaoAchado.dll
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoArquivoNaoAchado\bin\Debug\net8.0\Aula11-ExcecaoArquivoNaoAchado.pdb
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoArquivoNaoAchado\obj\Debug\net8.0\Aula11-ExcecaoArquivoNaoAchado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoArquivoNaoAchado\obj\Debug\net8.0\Aula11-ExcecaoArquivoNaoAchado.AssemblyInfoInputs.cache
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoArquivoNaoAchado\obj\Debug\net8.0\Aula11-ExcecaoArquivoNaoAchado.AssemblyInfo.cs
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoArquivoNaoAchado\obj\Debug\net8.0\Aula11-ExcecaoArquivoNaoAchado.csproj.CoreCompileInputs.cache
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoArquivoNaoAchado\obj\Debug\net8.0\Aula11-ExcecaoArquivoNaoAchado.sourcelink.json
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoArquivoNaoAchado\obj\Debug\net8.0\Aula11-ExcecaoArquivoNaoAchado.dll
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoArquivoNaoAchado\obj\Debug\net8.0\refint\Aula11-ExcecaoArquivoNaoAchado.dll
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoArquivoNaoAchado\obj\Debug\net8.0\Aula11-ExcecaoArquivoNaoAchado.pdb
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoArquivoNaoAchado\obj\Debug\net8.0\Aula11-ExcecaoArquivoNaoAchado.genruntimeconfig.cache
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoArquivoNaoAchado\obj\Debug\net8.0\ref\Aula11-ExcecaoArquivoNaoAchado.dll

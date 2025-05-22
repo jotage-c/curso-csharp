@@ -1,0 +1,15 @@
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-Excecoes\bin\Debug\net8.0\Aula11-Excecoes.exe
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-Excecoes\bin\Debug\net8.0\Aula11-Excecoes.deps.json
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-Excecoes\bin\Debug\net8.0\Aula11-Excecoes.runtimeconfig.json
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-Excecoes\bin\Debug\net8.0\Aula11-Excecoes.dll
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-Excecoes\bin\Debug\net8.0\Aula11-Excecoes.pdb
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-Excecoes\obj\Debug\net8.0\Aula11-Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-Excecoes\obj\Debug\net8.0\Aula11-Excecoes.AssemblyInfoInputs.cache
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-Excecoes\obj\Debug\net8.0\Aula11-Excecoes.AssemblyInfo.cs
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-Excecoes\obj\Debug\net8.0\Aula11-Excecoes.csproj.CoreCompileInputs.cache
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-Excecoes\obj\Debug\net8.0\Aula11-Excecoes.sourcelink.json
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-Excecoes\obj\Debug\net8.0\Aula11-Excecoes.dll
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-Excecoes\obj\Debug\net8.0\refint\Aula11-Excecoes.dll
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-Excecoes\obj\Debug\net8.0\Aula11-Excecoes.pdb
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-Excecoes\obj\Debug\net8.0\Aula11-Excecoes.genruntimeconfig.cache
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-Excecoes\obj\Debug\net8.0\ref\Aula11-Excecoes.dll

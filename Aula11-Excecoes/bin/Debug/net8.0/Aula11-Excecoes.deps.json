@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aula11-Excecoes/1.0.0": {
+        "runtime": {
+          "Aula11-Excecoes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula11-Excecoes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
