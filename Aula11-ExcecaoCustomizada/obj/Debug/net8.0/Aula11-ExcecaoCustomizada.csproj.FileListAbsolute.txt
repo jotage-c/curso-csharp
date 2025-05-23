@@ -1,0 +1,15 @@
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoCustomizada\bin\Debug\net8.0\Aula11-ExcecaoCustomizada.exe
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoCustomizada\bin\Debug\net8.0\Aula11-ExcecaoCustomizada.deps.json
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoCustomizada\bin\Debug\net8.0\Aula11-ExcecaoCustomizada.runtimeconfig.json
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoCustomizada\bin\Debug\net8.0\Aula11-ExcecaoCustomizada.dll
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoCustomizada\bin\Debug\net8.0\Aula11-ExcecaoCustomizada.pdb
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoCustomizada\obj\Debug\net8.0\Aula11-ExcecaoCustomizada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoCustomizada\obj\Debug\net8.0\Aula11-ExcecaoCustomizada.AssemblyInfoInputs.cache
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoCustomizada\obj\Debug\net8.0\Aula11-ExcecaoCustomizada.AssemblyInfo.cs
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoCustomizada\obj\Debug\net8.0\Aula11-ExcecaoCustomizada.csproj.CoreCompileInputs.cache
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoCustomizada\obj\Debug\net8.0\Aula11-ExcecaoCustomizada.sourcelink.json
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoCustomizada\obj\Debug\net8.0\Aula11-ExcecaoCustomizada.dll
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoCustomizada\obj\Debug\net8.0\refint\Aula11-ExcecaoCustomizada.dll
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoCustomizada\obj\Debug\net8.0\Aula11-ExcecaoCustomizada.pdb
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoCustomizada\obj\Debug\net8.0\Aula11-ExcecaoCustomizada.genruntimeconfig.cache
+C:\Users\first informatica\Desktop\curso csh\Csharp\CursoCSHARP\Aula11-ExcecaoCustomizada\obj\Debug\net8.0\ref\Aula11-ExcecaoCustomizada.dll
