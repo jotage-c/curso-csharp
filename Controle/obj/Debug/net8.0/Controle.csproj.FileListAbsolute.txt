@@ -26,3 +26,4 @@ C:\Users\USUARIO\source\repos\CursoCsharp\Controle\obj\Debug\net8.0\refint\Contr
 C:\Users\USUARIO\source\repos\CursoCsharp\Controle\obj\Debug\net8.0\Controle.pdb
 C:\Users\USUARIO\source\repos\CursoCsharp\Controle\obj\Debug\net8.0\Controle.genruntimeconfig.cache
 C:\Users\USUARIO\source\repos\CursoCsharp\Controle\obj\Debug\net8.0\ref\Controle.dll
+C:\Users\USUARIO\source\repos\CursoCsharp\Controle\obj\Debug\net8.0\Controle.sourcelink.json

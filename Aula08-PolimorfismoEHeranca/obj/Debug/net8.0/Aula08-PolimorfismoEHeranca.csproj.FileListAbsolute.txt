@@ -12,3 +12,4 @@ C:\Users\USUARIO\source\repos\CursoCsharp\Aula08-PolimorfismoEHeranca\obj\Debug\
 C:\Users\USUARIO\source\repos\CursoCsharp\Aula08-PolimorfismoEHeranca\obj\Debug\net8.0\Aula08-PolimorfismoEHeranca.pdb
 C:\Users\USUARIO\source\repos\CursoCsharp\Aula08-PolimorfismoEHeranca\obj\Debug\net8.0\Aula08-PolimorfismoEHeranca.genruntimeconfig.cache
 C:\Users\USUARIO\source\repos\CursoCsharp\Aula08-PolimorfismoEHeranca\obj\Debug\net8.0\ref\Aula08-PolimorfismoEHeranca.dll
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula08-PolimorfismoEHeranca\obj\Debug\net8.0\Aula08-PolimorfismoEHeranca.sourcelink.json

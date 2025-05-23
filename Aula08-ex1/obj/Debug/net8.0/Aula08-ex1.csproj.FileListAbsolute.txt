@@ -12,3 +12,4 @@ C:\Users\USUARIO\source\repos\CursoCsharp\Aula08-ex1\obj\Debug\net8.0\refint\Aul
 C:\Users\USUARIO\source\repos\CursoCsharp\Aula08-ex1\obj\Debug\net8.0\Aula08-ex1.pdb
 C:\Users\USUARIO\source\repos\CursoCsharp\Aula08-ex1\obj\Debug\net8.0\Aula08-ex1.genruntimeconfig.cache
 C:\Users\USUARIO\source\repos\CursoCsharp\Aula08-ex1\obj\Debug\net8.0\ref\Aula08-ex1.dll
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula08-ex1\obj\Debug\net8.0\Aula08-ex1.sourcelink.json

@@ -12,3 +12,4 @@ C:\Users\USUARIO\source\repos\CursoCsharp\Aula07-Construtores\obj\Debug\net8.0\r
 C:\Users\USUARIO\source\repos\CursoCsharp\Aula07-Construtores\obj\Debug\net8.0\Aula07-Construtores.pdb
 C:\Users\USUARIO\source\repos\CursoCsharp\Aula07-Construtores\obj\Debug\net8.0\Aula07-Construtores.genruntimeconfig.cache
 C:\Users\USUARIO\source\repos\CursoCsharp\Aula07-Construtores\obj\Debug\net8.0\ref\Aula07-Construtores.dll
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula07-Construtores\obj\Debug\net8.0\Aula07-Construtores.sourcelink.json

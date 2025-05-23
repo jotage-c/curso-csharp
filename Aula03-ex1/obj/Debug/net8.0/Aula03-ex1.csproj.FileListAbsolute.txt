@@ -1,0 +1,15 @@
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula03-ex1\bin\Debug\net8.0\Aula03-ex1.exe
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula03-ex1\bin\Debug\net8.0\Aula03-ex1.deps.json
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula03-ex1\bin\Debug\net8.0\Aula03-ex1.runtimeconfig.json
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula03-ex1\bin\Debug\net8.0\Aula03-ex1.dll
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula03-ex1\bin\Debug\net8.0\Aula03-ex1.pdb
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula03-ex1\obj\Debug\net8.0\Aula03-ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula03-ex1\obj\Debug\net8.0\Aula03-ex1.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula03-ex1\obj\Debug\net8.0\Aula03-ex1.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula03-ex1\obj\Debug\net8.0\Aula03-ex1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula03-ex1\obj\Debug\net8.0\Aula03-ex1.sourcelink.json
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula03-ex1\obj\Debug\net8.0\Aula03-ex1.dll
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula03-ex1\obj\Debug\net8.0\refint\Aula03-ex1.dll
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula03-ex1\obj\Debug\net8.0\Aula03-ex1.pdb
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula03-ex1\obj\Debug\net8.0\Aula03-ex1.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula03-ex1\obj\Debug\net8.0\ref\Aula03-ex1.dll

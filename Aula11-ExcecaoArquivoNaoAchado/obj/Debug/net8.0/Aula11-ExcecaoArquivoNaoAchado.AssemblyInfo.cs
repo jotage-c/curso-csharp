@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aula11-ExcecaoArquivoNaoAchado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4405c12aa362d244559a0a83ed0bc7178f2e5ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b89b9362227bea79293ae06d37557b17b874d488")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aula11-ExcecaoArquivoNaoAchado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aula11-ExcecaoArquivoNaoAchado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

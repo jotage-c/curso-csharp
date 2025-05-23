@@ -12,3 +12,4 @@ C:\Users\USUARIO\source\repos\CursoCsharp\Aula09-Interface\obj\Debug\net8.0\refi
 C:\Users\USUARIO\source\repos\CursoCsharp\Aula09-Interface\obj\Debug\net8.0\Aula09-Interface.pdb
 C:\Users\USUARIO\source\repos\CursoCsharp\Aula09-Interface\obj\Debug\net8.0\Aula09-Interface.genruntimeconfig.cache
 C:\Users\USUARIO\source\repos\CursoCsharp\Aula09-Interface\obj\Debug\net8.0\ref\Aula09-Interface.dll
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula09-Interface\obj\Debug\net8.0\Aula09-Interface.sourcelink.json
