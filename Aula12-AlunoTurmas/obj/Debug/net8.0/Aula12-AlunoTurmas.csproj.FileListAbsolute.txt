@@ -1,0 +1,15 @@
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula12-AlunoTurmas\bin\Debug\net8.0\Aula12-AlunoTurmas.exe
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula12-AlunoTurmas\bin\Debug\net8.0\Aula12-AlunoTurmas.deps.json
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula12-AlunoTurmas\bin\Debug\net8.0\Aula12-AlunoTurmas.runtimeconfig.json
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula12-AlunoTurmas\bin\Debug\net8.0\Aula12-AlunoTurmas.dll
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula12-AlunoTurmas\bin\Debug\net8.0\Aula12-AlunoTurmas.pdb
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula12-AlunoTurmas\obj\Debug\net8.0\Aula12-AlunoTurmas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula12-AlunoTurmas\obj\Debug\net8.0\Aula12-AlunoTurmas.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula12-AlunoTurmas\obj\Debug\net8.0\Aula12-AlunoTurmas.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula12-AlunoTurmas\obj\Debug\net8.0\Aula12-AlunoTurmas.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula12-AlunoTurmas\obj\Debug\net8.0\Aula12-AlunoTurmas.sourcelink.json
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula12-AlunoTurmas\obj\Debug\net8.0\Aula12-AlunoTurmas.dll
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula12-AlunoTurmas\obj\Debug\net8.0\refint\Aula12-AlunoTurmas.dll
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula12-AlunoTurmas\obj\Debug\net8.0\Aula12-AlunoTurmas.pdb
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula12-AlunoTurmas\obj\Debug\net8.0\Aula12-AlunoTurmas.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\CursoCsharp\Aula12-AlunoTurmas\obj\Debug\net8.0\ref\Aula12-AlunoTurmas.dll
