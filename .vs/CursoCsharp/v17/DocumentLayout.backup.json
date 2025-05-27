@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FAC0DEC-1C1A-424A-B4A9-825233C1197E}|Aula12-AlunoTurmas\\Aula12-AlunoTurmas.csproj|c:\\users\\usuario\\source\\repos\\cursocsharp\\aula12-alunoturmas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FAC0DEC-1C1A-424A-B4A9-825233C1197E}|Aula12-AlunoTurmas\\Aula12-AlunoTurmas.csproj|solutionrelative:aula12-alunoturmas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7037EB9E-7B15-457B-A440-22C5C530BA7D}|Aula12-AplicacaoArquivos\\Aula12-AplicacaoArquivos.csproj|c:\\users\\usuario\\source\\repos\\cursocsharp\\aula12-aplicacaoarquivos\\services\\gerenciadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7037EB9E-7B15-457B-A440-22C5C530BA7D}|Aula12-AplicacaoArquivos\\Aula12-AplicacaoArquivos.csproj|solutionrelative:aula12-aplicacaoarquivos\\services\\gerenciadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FAC0DEC-1C1A-424A-B4A9-825233C1197E}|Aula12-AlunoTurmas\\Aula12-AlunoTurmas.csproj|c:\\users\\usuario\\source\\repos\\cursocsharp\\aula12-alunoturmas\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FAC0DEC-1C1A-424A-B4A9-825233C1197E}|Aula12-AlunoTurmas\\Aula12-AlunoTurmas.csproj|solutionrelative:aula12-alunoturmas\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7037EB9E-7B15-457B-A440-22C5C530BA7D}|Aula12-AplicacaoArquivos\\Aula12-AplicacaoArquivos.csproj|c:\\users\\usuario\\source\\repos\\cursocsharp\\aula12-aplicacaoarquivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7037EB9E-7B15-457B-A440-22C5C530BA7D}|Aula12-AplicacaoArquivos\\Aula12-AplicacaoArquivos.csproj|solutionrelative:aula12-aplicacaoarquivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FAC0DEC-1C1A-424A-B4A9-825233C1197E}|Aula12-AlunoTurmas\\Aula12-AlunoTurmas.csproj|c:\\users\\usuario\\source\\repos\\cursocsharp\\aula12-alunoturmas\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FAC0DEC-1C1A-424A-B4A9-825233C1197E}|Aula12-AlunoTurmas\\Aula12-AlunoTurmas.csproj|solutionrelative:aula12-alunoturmas\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FAC0DEC-1C1A-424A-B4A9-825233C1197E}|Aula12-AlunoTurmas\\Aula12-AlunoTurmas.csproj|c:\\users\\usuario\\source\\repos\\cursocsharp\\aula12-alunoturmas\\services\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FAC0DEC-1C1A-424A-B4A9-825233C1197E}|Aula12-AlunoTurmas\\Aula12-AlunoTurmas.csproj|solutionrelative:aula12-alunoturmas\\services\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FAC0DEC-1C1A-424A-B4A9-825233C1197E}|Aula12-AlunoTurmas\\Aula12-AlunoTurmas.csproj|c:\\users\\usuario\\source\\repos\\cursocsharp\\aula12-alunoturmas\\services\\filedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FAC0DEC-1C1A-424A-B4A9-825233C1197E}|Aula12-AlunoTurmas\\Aula12-AlunoTurmas.csproj|solutionrelative:aula12-alunoturmas\\services\\filedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FAC0DEC-1C1A-424A-B4A9-825233C1197E}|Aula12-AlunoTurmas\\Aula12-AlunoTurmas.csproj|c:\\users\\usuario\\source\\repos\\cursocsharp\\aula12-alunoturmas\\delegates\\relatoriodelegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FAC0DEC-1C1A-424A-B4A9-825233C1197E}|Aula12-AlunoTurmas\\Aula12-AlunoTurmas.csproj|solutionrelative:aula12-alunoturmas\\delegates\\relatoriodelegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FAC0DEC-1C1A-424A-B4A9-825233C1197E}|Aula12-AlunoTurmas\\Aula12-AlunoTurmas.csproj|c:\\users\\usuario\\source\\repos\\cursocsharp\\aula12-alunoturmas\\models\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FAC0DEC-1C1A-424A-B4A9-825233C1197E}|Aula12-AlunoTurmas\\Aula12-AlunoTurmas.csproj|solutionrelative:aula12-alunoturmas\\models\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7037EB9E-7B15-457B-A440-22C5C530BA7D}|Aula12-AplicacaoArquivos\\Aula12-AplicacaoArquivos.csproj|c:\\users\\usuario\\source\\repos\\cursocsharp\\aula12-aplicacaoarquivos\\services\\igerenciadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7037EB9E-7B15-457B-A440-22C5C530BA7D}|Aula12-AplicacaoArquivos\\Aula12-AplicacaoArquivos.csproj|solutionrelative:aula12-aplicacaoarquivos\\services\\igerenciadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RelatorioDelegates.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\Aula12-AlunoTurmas\\Delegates\\RelatorioDelegates.cs",
-              "RelativeDocumentMoniker": "Aula12-AlunoTurmas\\Delegates\\RelatorioDelegates.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\Aula12-AlunoTurmas\\Delegates\\RelatorioDelegates.cs",
-              "RelativeToolTip": "Aula12-AlunoTurmas\\Delegates\\RelatorioDelegates.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T23:39:54.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FileDataService.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\Aula12-AlunoTurmas\\Services\\FileDataService.cs",
-              "RelativeDocumentMoniker": "Aula12-AlunoTurmas\\Services\\FileDataService.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\Aula12-AlunoTurmas\\Services\\FileDataService.cs",
-              "RelativeToolTip": "Aula12-AlunoTurmas\\Services\\FileDataService.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDkAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T23:25:46.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IDataService.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\Aula12-AlunoTurmas\\Services\\IDataService.cs",
-              "RelativeDocumentMoniker": "Aula12-AlunoTurmas\\Services\\IDataService.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\Aula12-AlunoTurmas\\Services\\IDataService.cs",
-              "RelativeToolTip": "Aula12-AlunoTurmas\\Services\\IDataService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T23:17:51.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\Aula12-AlunoTurmas\\Models\\Pessoa.cs",
-              "RelativeDocumentMoniker": "Aula12-AlunoTurmas\\Models\\Pessoa.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\Aula12-AlunoTurmas\\Models\\Pessoa.cs",
-              "RelativeToolTip": "Aula12-AlunoTurmas\\Models\\Pessoa.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCAAAAAsAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\Aula12-AplicacaoArquivos\\Program.cs",
+              "RelativeDocumentMoniker": "Aula12-AplicacaoArquivos\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\Aula12-AplicacaoArquivos\\Program.cs",
+              "RelativeToolTip": "Aula12-AplicacaoArquivos\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBEAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T22:20:10.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\Aula12-AlunoTurmas\\Models\\Aluno.cs",
-              "RelativeDocumentMoniker": "Aula12-AlunoTurmas\\Models\\Aluno.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\Aula12-AlunoTurmas\\Models\\Aluno.cs",
-              "RelativeToolTip": "Aula12-AlunoTurmas\\Models\\Aluno.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAuwA4AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T22:21:02.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Turma.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\Aula12-AlunoTurmas\\Models\\Turma.cs",
-              "RelativeDocumentMoniker": "Aula12-AlunoTurmas\\Models\\Turma.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\Aula12-AlunoTurmas\\Models\\Turma.cs",
-              "RelativeToolTip": "Aula12-AlunoTurmas\\Models\\Turma.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T22:21:09.376Z",
+              "WhenOpened": "2025-05-26T22:27:34.835Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\Aula12-AlunoTurmas\\Program.cs",
-              "RelativeDocumentMoniker": "Aula12-AlunoTurmas\\Program.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\Aula12-AlunoTurmas\\Program.cs",
-              "RelativeToolTip": "Aula12-AlunoTurmas\\Program.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAqwHwAAABWAAAAAAAAAA==",
+              "Title": "GerenciadorService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\Aula12-AplicacaoArquivos\\Services\\GerenciadorService.cs",
+              "RelativeDocumentMoniker": "Aula12-AplicacaoArquivos\\Services\\GerenciadorService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\Aula12-AplicacaoArquivos\\Services\\GerenciadorService.cs",
+              "RelativeToolTip": "Aula12-AplicacaoArquivos\\Services\\GerenciadorService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwA8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T22:17:39.472Z",
+              "WhenOpened": "2025-05-26T23:17:26.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGerenciadorService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\Aula12-AplicacaoArquivos\\Services\\IGerenciadorService.cs",
+              "RelativeDocumentMoniker": "Aula12-AplicacaoArquivos\\Services\\IGerenciadorService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\Aula12-AplicacaoArquivos\\Services\\IGerenciadorService.cs",
+              "RelativeToolTip": "Aula12-AplicacaoArquivos\\Services\\IGerenciadorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T23:32:00.605Z",
               "EditorCaption": ""
             }
           ]

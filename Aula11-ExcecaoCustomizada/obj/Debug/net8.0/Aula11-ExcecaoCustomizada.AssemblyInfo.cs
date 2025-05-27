@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aula11-ExcecaoCustomizada")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f730c06eee6f8f1a3a65d097f11ab6afc3bf0f5c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d42132f01ff36f4b78c4544623c9efc2f12c7813")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aula11-ExcecaoCustomizada")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aula11-ExcecaoCustomizada")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
