@@ -39,7 +39,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula12-AlunoTurmas", "Aula1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula12-AplicacaoArquivos", "Aula12-AplicacaoArquivos\Aula12-AplicacaoArquivos.csproj", "{7037EB9E-7B15-457B-A440-22C5C530BA7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula12-File", "Aula12-File\Aula12-File.csproj", "{23812CF0-7498-4FB3-81DA-F8683F7AE307}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaliacaoFinal", "AvaliacaoFinal\AvaliacaoFinal.csproj", "{1C4EC085-6C4D-41C5-9E3E-FD951647445D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -119,10 +119,10 @@ Global
 		{7037EB9E-7B15-457B-A440-22C5C530BA7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7037EB9E-7B15-457B-A440-22C5C530BA7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7037EB9E-7B15-457B-A440-22C5C530BA7D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{23812CF0-7498-4FB3-81DA-F8683F7AE307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{23812CF0-7498-4FB3-81DA-F8683F7AE307}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{23812CF0-7498-4FB3-81DA-F8683F7AE307}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{23812CF0-7498-4FB3-81DA-F8683F7AE307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C4EC085-6C4D-41C5-9E3E-FD951647445D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C4EC085-6C4D-41C5-9E3E-FD951647445D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C4EC085-6C4D-41C5-9E3E-FD951647445D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C4EC085-6C4D-41C5-9E3E-FD951647445D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

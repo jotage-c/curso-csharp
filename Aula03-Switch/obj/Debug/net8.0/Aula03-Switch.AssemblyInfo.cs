@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aula03-Switch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d42132f01ff36f4b78c4544623c9efc2f12c7813")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85c1299064a84d8e6a2aeed6ab45f3b8916fa47c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aula03-Switch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aula03-Switch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

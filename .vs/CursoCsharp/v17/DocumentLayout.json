@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23812CF0-7498-4FB3-81DA-F8683F7AE307}|Aula12-File\\Aula12-File.csproj|c:\\users\\usuario\\source\\repos\\cursocsharp\\aula12-file\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23812CF0-7498-4FB3-81DA-F8683F7AE307}|Aula12-File\\Aula12-File.csproj|solutionrelative:aula12-file\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C4EC085-6C4D-41C5-9E3E-FD951647445D}|AvaliacaoFinal\\AvaliacaoFinal.csproj|c:\\users\\usuario\\source\\repos\\cursocsharp\\avaliacaofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4EC085-6C4D-41C5-9E3E-FD951647445D}|AvaliacaoFinal\\AvaliacaoFinal.csproj|solutionrelative:avaliacaofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4EC085-6C4D-41C5-9E3E-FD951647445D}|AvaliacaoFinal\\AvaliacaoFinal.csproj|c:\\users\\usuario\\source\\repos\\cursocsharp\\avaliacaofinal\\services\\datamanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4EC085-6C4D-41C5-9E3E-FD951647445D}|AvaliacaoFinal\\AvaliacaoFinal.csproj|solutionrelative:avaliacaofinal\\services\\datamanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4EC085-6C4D-41C5-9E3E-FD951647445D}|AvaliacaoFinal\\AvaliacaoFinal.csproj|c:\\users\\usuario\\source\\repos\\cursocsharp\\avaliacaofinal\\services\\idatamanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4EC085-6C4D-41C5-9E3E-FD951647445D}|AvaliacaoFinal\\AvaliacaoFinal.csproj|solutionrelative:avaliacaofinal\\services\\idatamanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4EC085-6C4D-41C5-9E3E-FD951647445D}|AvaliacaoFinal\\AvaliacaoFinal.csproj|c:\\users\\usuario\\source\\repos\\cursocsharp\\avaliacaofinal\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4EC085-6C4D-41C5-9E3E-FD951647445D}|AvaliacaoFinal\\AvaliacaoFinal.csproj|solutionrelative:avaliacaofinal\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDataManagement.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\AvaliacaoFinal\\Services\\IDataManagement.cs",
+              "RelativeDocumentMoniker": "AvaliacaoFinal\\Services\\IDataManagement.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\AvaliacaoFinal\\Services\\IDataManagement.cs",
+              "RelativeToolTip": "AvaliacaoFinal\\Services\\IDataManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:21:43.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataManagement.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\AvaliacaoFinal\\Services\\DataManagement.cs",
+              "RelativeDocumentMoniker": "AvaliacaoFinal\\Services\\DataManagement.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\AvaliacaoFinal\\Services\\DataManagement.cs",
+              "RelativeToolTip": "AvaliacaoFinal\\Services\\DataManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:22:09.09Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\Aula12-File\\Program.cs",
-              "RelativeDocumentMoniker": "Aula12-File\\Program.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\Aula12-File\\Program.cs",
-              "RelativeToolTip": "Aula12-File\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\AvaliacaoFinal\\Program.cs",
+              "RelativeDocumentMoniker": "AvaliacaoFinal\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\AvaliacaoFinal\\Program.cs",
+              "RelativeToolTip": "AvaliacaoFinal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T01:15:35.987Z",
+              "WhenOpened": "2025-05-28T23:18:09.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\AvaliacaoFinal\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "AvaliacaoFinal\\Models\\Livro.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\AvaliacaoFinal\\Models\\Livro.cs",
+              "RelativeToolTip": "AvaliacaoFinal\\Models\\Livro.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:39:05.456Z",
               "EditorCaption": ""
             }
           ]

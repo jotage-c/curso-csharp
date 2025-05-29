@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7037EB9E-7B15-457B-A440-22C5C530BA7D}|Aula12-AplicacaoArquivos\\Aula12-AplicacaoArquivos.csproj|c:\\users\\usuario\\source\\repos\\cursocsharp\\aula12-aplicacaoarquivos\\services\\gerenciadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7037EB9E-7B15-457B-A440-22C5C530BA7D}|Aula12-AplicacaoArquivos\\Aula12-AplicacaoArquivos.csproj|solutionrelative:aula12-aplicacaoarquivos\\services\\gerenciadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C4EC085-6C4D-41C5-9E3E-FD951647445D}|AvaliacaoFinal\\AvaliacaoFinal.csproj|c:\\users\\usuario\\source\\repos\\cursocsharp\\avaliacaofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4EC085-6C4D-41C5-9E3E-FD951647445D}|AvaliacaoFinal\\AvaliacaoFinal.csproj|solutionrelative:avaliacaofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7037EB9E-7B15-457B-A440-22C5C530BA7D}|Aula12-AplicacaoArquivos\\Aula12-AplicacaoArquivos.csproj|c:\\users\\usuario\\source\\repos\\cursocsharp\\aula12-aplicacaoarquivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7037EB9E-7B15-457B-A440-22C5C530BA7D}|Aula12-AplicacaoArquivos\\Aula12-AplicacaoArquivos.csproj|solutionrelative:aula12-aplicacaoarquivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C4EC085-6C4D-41C5-9E3E-FD951647445D}|AvaliacaoFinal\\AvaliacaoFinal.csproj|c:\\users\\usuario\\source\\repos\\cursocsharp\\avaliacaofinal\\services\\datamanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4EC085-6C4D-41C5-9E3E-FD951647445D}|AvaliacaoFinal\\AvaliacaoFinal.csproj|solutionrelative:avaliacaofinal\\services\\datamanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7037EB9E-7B15-457B-A440-22C5C530BA7D}|Aula12-AplicacaoArquivos\\Aula12-AplicacaoArquivos.csproj|c:\\users\\usuario\\source\\repos\\cursocsharp\\aula12-aplicacaoarquivos\\services\\igerenciadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7037EB9E-7B15-457B-A440-22C5C530BA7D}|Aula12-AplicacaoArquivos\\Aula12-AplicacaoArquivos.csproj|solutionrelative:aula12-aplicacaoarquivos\\services\\igerenciadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C4EC085-6C4D-41C5-9E3E-FD951647445D}|AvaliacaoFinal\\AvaliacaoFinal.csproj|c:\\users\\usuario\\source\\repos\\cursocsharp\\avaliacaofinal\\services\\idatamanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4EC085-6C4D-41C5-9E3E-FD951647445D}|AvaliacaoFinal\\AvaliacaoFinal.csproj|solutionrelative:avaliacaofinal\\services\\idatamanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4EC085-6C4D-41C5-9E3E-FD951647445D}|AvaliacaoFinal\\AvaliacaoFinal.csproj|c:\\users\\usuario\\source\\repos\\cursocsharp\\avaliacaofinal\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4EC085-6C4D-41C5-9E3E-FD951647445D}|AvaliacaoFinal\\AvaliacaoFinal.csproj|solutionrelative:avaliacaofinal\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\Aula12-AplicacaoArquivos\\Program.cs",
-              "RelativeDocumentMoniker": "Aula12-AplicacaoArquivos\\Program.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\Aula12-AplicacaoArquivos\\Program.cs",
-              "RelativeToolTip": "Aula12-AplicacaoArquivos\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBEAAABDAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "IDataManagement.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\AvaliacaoFinal\\Services\\IDataManagement.cs",
+              "RelativeDocumentMoniker": "AvaliacaoFinal\\Services\\IDataManagement.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\AvaliacaoFinal\\Services\\IDataManagement.cs",
+              "RelativeToolTip": "AvaliacaoFinal\\Services\\IDataManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T22:27:34.835Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-05-28T23:21:43.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataManagement.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\AvaliacaoFinal\\Services\\DataManagement.cs",
+              "RelativeDocumentMoniker": "AvaliacaoFinal\\Services\\DataManagement.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\AvaliacaoFinal\\Services\\DataManagement.cs",
+              "RelativeToolTip": "AvaliacaoFinal\\Services\\DataManagement.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwDMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:22:09.09Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GerenciadorService.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\Aula12-AplicacaoArquivos\\Services\\GerenciadorService.cs",
-              "RelativeDocumentMoniker": "Aula12-AplicacaoArquivos\\Services\\GerenciadorService.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\Aula12-AplicacaoArquivos\\Services\\GerenciadorService.cs",
-              "RelativeToolTip": "Aula12-AplicacaoArquivos\\Services\\GerenciadorService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwA8AAAAPAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\AvaliacaoFinal\\Program.cs",
+              "RelativeDocumentMoniker": "AvaliacaoFinal\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\AvaliacaoFinal\\Program.cs",
+              "RelativeToolTip": "AvaliacaoFinal\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAMwEMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T23:17:26.309Z",
+              "WhenOpened": "2025-05-28T23:18:09.763Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IGerenciadorService.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\Aula12-AplicacaoArquivos\\Services\\IGerenciadorService.cs",
-              "RelativeDocumentMoniker": "Aula12-AplicacaoArquivos\\Services\\IGerenciadorService.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\Aula12-AplicacaoArquivos\\Services\\IGerenciadorService.cs",
-              "RelativeToolTip": "Aula12-AplicacaoArquivos\\Services\\IGerenciadorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\AvaliacaoFinal\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "AvaliacaoFinal\\Models\\Livro.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\CursoCsharp\\AvaliacaoFinal\\Models\\Livro.cs",
+              "RelativeToolTip": "AvaliacaoFinal\\Models\\Livro.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwB4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T23:32:00.605Z",
+              "WhenOpened": "2025-05-28T23:39:05.456Z",
               "EditorCaption": ""
             }
           ]
